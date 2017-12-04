@@ -4,7 +4,7 @@ Images like logo and other stuff.
 Few Links:
 Contract Address: 0xb67734521eAbBE9C773729dB73E16CC2dfb20A58
 
-Link to download a 28x28png icon logo: https://github.com/eRupee/images/blob/master/coin%20logo%2028x28%20png.png?raw=true
+Official Website: erupee.wordpress.com
 
 Official Contact Email Address: erupee@protonmail.com
 
