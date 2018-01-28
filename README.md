@@ -8,7 +8,9 @@ Official Website: erupee.wordpress.com
 
 Official Contact Email Address: erupee@protonmail.com
 
-Link to reddit: https://www.reddit.com/r/ethereum/comments/7hhstk/erupee_first_south_asian_crypto_currency/
+Link to Ether Delta Exchange: https://etherdelta.com/#0xb67734521eabbe9c773729db73e16cc2dfb20a58-ETH
+
+Link to reddit: https://www.reddit.com/r/eRupee/
 
 Link to facebook:https://www.facebook.com/ERupee-150258129035495/
 
