@@ -20,3 +20,4 @@ Link to github: https://github.com/eRupee
 
 Link to telegram: t.me/eRupee
 
+Link to bitcointalk: https://bitcointalk.org/index.php?topic=2839333.new#new
